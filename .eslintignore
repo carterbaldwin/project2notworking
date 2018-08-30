@@ -1,0 +1,10 @@
+models/index.js
+node_modules
+config/config.json
+models/example.js
+public/js/index.js
+routes/apiRoutes.js
+routes/htmlRoutes.js
+models/bar.js
+public/js/bar.js
+
